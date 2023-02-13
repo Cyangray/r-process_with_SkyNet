@@ -114,8 +114,8 @@ if __name__ == '__main__':
     m = 2
     omp = 2
     DZpart = '_noDZ'
-    nlds = [1,2,3,4,5,6]
-    strengths = [1,2,3,4,5,6,7,8]
+    nlds = [1]
+    strengths = [1,2,3,4,5,6]
     simulation_strings = []
     for nld in nlds:
         for strength in strengths:
